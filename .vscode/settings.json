@@ -8,7 +8,7 @@
       "name": "wsl2nest",
       "database": "nestapi",
       "username": "postgres",
-      "password": "Htad1919!"
+      "password": "yourpassword"
     }
   ]
 }
